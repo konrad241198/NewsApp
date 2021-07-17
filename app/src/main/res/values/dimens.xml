@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="padding_bottom_recycler_view">50dp</dimen>
+    <dimen name="search_news_edit_text_padding">15dp</dimen>
+    <dimen name="article_item_layout_padding">8dp</dimen>
+    <dimen name="article_image_width">160dp</dimen>
+    <dimen name="article_image_height">120dp</dimen>
+</resources>

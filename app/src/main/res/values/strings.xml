@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="breaking_news_title">Breaking News</string>
+    <string name="save_news_title">Save News</string>
+    <string name="search_news_title">Search News</string>
+    <string name="search_news_edit_text_hint">Search...</string>
+    <string name="article_image_view_description">article image view description</string>
+    <string name="floating_action_button_description">floating action button description</string>
+</resources>
