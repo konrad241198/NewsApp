@@ -1,2 +1,2 @@
-# news app for Android\
-#author: Konrad Jurkowski
+# news app for Android
+author: Konrad Jurkowski
